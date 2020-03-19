@@ -1,0 +1,27 @@
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Game Logic Class.dll
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Game Logic Class.pdb
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csprojAssemblyReference.cache
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CoreCompileInputs.cache
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.dll
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.pdb
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Object Classes.dll
+C:\Sandpit\Student Project\Space Race\Game Logic Class\bin\Debug\Object Classes.pdb
+C:\Sandpit\Student Project\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CopyComplete
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\bin\Debug\Game Logic Class.dll
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\bin\Debug\Game Logic Class.pdb
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\bin\Debug\Object Classes.dll
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\bin\Debug\Object Classes.pdb
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csprojAssemblyReference.cache
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CoreCompileInputs.cache
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CopyComplete
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\obj\Debug\Game Logic Class.dll
+C:\Users\Orest\Desktop\task\Space Race\Game Logic Class\obj\Debug\Game Logic Class.pdb
+D:\C#\Space Race\Game Logic Class\bin\Debug\Game Logic Class.dll
+D:\C#\Space Race\Game Logic Class\bin\Debug\Game Logic Class.pdb
+D:\C#\Space Race\Game Logic Class\bin\Debug\Object Classes.dll
+D:\C#\Space Race\Game Logic Class\bin\Debug\Object Classes.pdb
+D:\C#\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csprojAssemblyReference.cache
+D:\C#\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CoreCompileInputs.cache
+D:\C#\Space Race\Game Logic Class\obj\Debug\Game Logic Class.csproj.CopyComplete
+D:\C#\Space Race\Game Logic Class\obj\Debug\Game Logic Class.dll
+D:\C#\Space Race\Game Logic Class\obj\Debug\Game Logic Class.pdb
