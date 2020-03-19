@@ -53,3 +53,17 @@ D:\C#\Space Race\GUI Class\obj\Debug\GUI Class.csproj.CoreCompileInputs.cache
 D:\C#\Space Race\GUI Class\obj\Debug\GUI Class.csproj.CopyComplete
 D:\C#\Space Race\GUI Class\obj\Debug\GUI Class.exe
 D:\C#\Space Race\GUI Class\obj\Debug\GUI Class.pdb
+D:\Space Race\GUI Class\bin\Debug\GUI Class.exe.config
+D:\Space Race\GUI Class\bin\Debug\GUI Class.exe
+D:\Space Race\GUI Class\bin\Debug\GUI Class.pdb
+D:\Space Race\GUI Class\bin\Debug\Game Logic Class.dll
+D:\Space Race\GUI Class\bin\Debug\Object Classes.dll
+D:\Space Race\GUI Class\bin\Debug\Game Logic Class.pdb
+D:\Space Race\GUI Class\bin\Debug\Object Classes.pdb
+D:\Space Race\GUI Class\obj\Debug\GUI Class.csprojAssemblyReference.cache
+D:\Space Race\GUI Class\obj\Debug\GUI_Class.SpaceRaceForm.resources
+D:\Space Race\GUI Class\obj\Debug\GUI_Class.Properties.Resources.resources
+D:\Space Race\GUI Class\obj\Debug\GUI Class.csproj.GenerateResource.cache
+D:\Space Race\GUI Class\obj\Debug\GUI Class.csproj.CopyComplete
+D:\Space Race\GUI Class\obj\Debug\GUI Class.exe
+D:\Space Race\GUI Class\obj\Debug\GUI Class.pdb
